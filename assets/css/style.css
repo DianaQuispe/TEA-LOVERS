@@ -1,0 +1,38 @@
+#div1 {
+	background-image: url(../img/fondo-bienvenida.jpg);
+	background-size: contain;
+	height: 800px;
+	background-repeat: no-repeat;
+	background-position: all;
+}
+#div1-1 {
+	
+}
+#img {position:absolute; top:250px} 
+#img {position:absolute; bottom:40px} 
+#img {position:absolute; left:250px} 
+#img {position:absolute; right:30px} 
+
+#img1 {
+	padding: 20px;
+}
+
+/* 
+Código Hexadecimal verde: #8EC641
+Código Hexadecimal gris footer: #3B3B3B
+*/
+
+#div2 {
+	background-color: #8EC641;
+	padding: 1px;
+	height: auto;
+	width: auto;
+}
+#boton1 {
+	color: white;
+	border: solid white 3px;
+	background-color: #8EC641;
+	padding: 10px ;
+	padding-right: : 40px;
+	margin: 40px 40px ;
+}
